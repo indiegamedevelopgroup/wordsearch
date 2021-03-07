@@ -1,7 +1,5 @@
 ## Welcome
 
-I'm a game developer.
-
 If you have any issues or suggestion, contact me please!
 
 ### Support or Contact
