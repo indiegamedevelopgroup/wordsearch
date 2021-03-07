@@ -8,6 +8,6 @@ If you have any issues or suggestion, contact me please!
 
 Having trouble with game? 
 
-[contact support](https://github.com/indiegamedevelopgroup/wordsearch/issues) or send e-mail(indiegamedevelopgroup@gmail.com).
+[contact support](https://github.com/indiegamedevelopgroup/wordsearch/issues) or [send e-mail](mailto:indiegamedevelopgroup@gmail.com).
 
 We’ll help you sort it out.
